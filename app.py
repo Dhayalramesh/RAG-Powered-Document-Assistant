@@ -4,8 +4,8 @@ import os
 import numpy as np
 from sentence_transformers import SentenceTransformer
 import faiss
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.document_loaders import TextLoader, PyPDFLoader
+from langchain_text_splitters import RecursiveCharacterTextSplitter  # ✅ new import
+from langchain_community.document_loaders import TextLoader, PyPDFLoader  # ✅ new import
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 import torch
 
