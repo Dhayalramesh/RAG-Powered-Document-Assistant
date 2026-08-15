@@ -1,0 +1,130 @@
+COMPANY KNOWLEDGE BASE
+NexaCore Technologies Pvt. Ltd.
+Internal Reference Document — Version 2.4
+Last Updated: March 2026
+
+===========================================================
+1. COMPANY OVERVIEW
+===========================================================
+
+NexaCore Technologies Pvt. Ltd. was founded in 2014 and is
+headquartered in Coimbatore, Tamil Nadu, India. The company
+specializes in enterprise software solutions, cloud
+infrastructure management, and AI-driven analytics platforms.
+
+As of the most recent fiscal year, NexaCore employs 1,240
+people across four offices located in Coimbatore, Bengaluru,
+Pune, and a satellite office in Singapore.
+
+The company's mission statement is: "To simplify enterprise
+technology through intelligent automation and human-centered
+design."
+
+===========================================================
+2. PRODUCT LINES
+===========================================================
+
+2.1 NexaCloud
+NexaCloud is the company's flagship cloud infrastructure
+management platform. It supports multi-cloud deployments
+across AWS, Azure, and Google Cloud. NexaCloud was launched
+in 2017 and currently serves over 3,500 enterprise clients.
+
+2.2 NexaAnalytics
+NexaAnalytics is a business intelligence and predictive
+analytics tool. It uses machine learning models to forecast
+demand, detect anomalies, and generate automated reports.
+The product was launched in 2020 and has a customer
+satisfaction score of 4.6 out of 5.
+
+2.3 NexaAssist
+NexaAssist is an AI-powered virtual assistant designed for
+enterprise helpdesk automation. It integrates with Slack,
+Microsoft Teams, and email systems. NexaAssist reduces
+average helpdesk resolution time by approximately 38%.
+
+===========================================================
+3. HUMAN RESOURCES POLICIES
+===========================================================
+
+3.1 Leave Policy
+Full-time employees are entitled to 24 days of paid annual
+leave, 12 days of sick leave, and 8 days of casual leave per
+calendar year. Unused annual leave (up to 10 days) can be
+carried forward to the next year.
+
+3.2 Work Hours
+Standard working hours are from 9:30 AM to 6:30 PM, Monday
+through Friday, with a one-hour lunch break. Employees may
+opt into a flexible hours program after completing six
+months of employment.
+
+3.3 Remote Work Policy
+Employees may work remotely up to 3 days per week, subject
+to manager approval. Fully remote arrangements require
+approval from the Head of Department and HR.
+
+3.4 Probation Period
+New employees undergo a probation period of 90 days, during
+which either party may terminate employment with 7 days'
+notice.
+
+===========================================================
+4. FINANCIAL SUMMARY (FISCAL YEAR 2025)
+===========================================================
+
+Total Revenue: INR 412 crore
+Net Profit: INR 58 crore
+Research & Development Spend: INR 46 crore (11.2% of revenue)
+Employee Growth Rate: 14% year-over-year
+
+The company's largest revenue segment was NexaCloud,
+contributing 52% of total revenue, followed by NexaAnalytics
+at 31% and NexaAssist at 17%.
+
+===========================================================
+5. CUSTOMER SUPPORT GUIDELINES
+===========================================================
+
+5.1 Response Time SLA
+- Critical issues: response within 1 hour, resolution
+  target within 8 hours.
+- High priority issues: response within 4 hours, resolution
+  target within 24 hours.
+- Standard issues: response within 1 business day.
+
+5.2 Escalation Process
+If an issue remains unresolved beyond the SLA window, it is
+automatically escalated to a Level 2 support engineer. Issues
+unresolved after 48 hours are escalated to the Engineering
+Manager on call.
+
+5.3 Customer Feedback
+Customer feedback is collected via quarterly surveys. The
+most recent survey (Q1 2026) recorded an overall satisfaction
+score of 88%, up from 84% in the previous quarter.
+
+===========================================================
+6. SECURITY AND COMPLIANCE
+===========================================================
+
+NexaCore is ISO 27001 certified and compliant with GDPR for
+its European clients. All customer data is encrypted at rest
+using AES-256 encryption and in transit using TLS 1.3.
+
+Security audits are conducted twice a year by an independent
+third-party firm. The most recent audit, completed in
+January 2026, identified zero critical vulnerabilities.
+
+===========================================================
+7. CONTACT DIRECTORY
+===========================================================
+
+General Support: support@nexacoretech.example
+Sales Inquiries: sales@nexacoretech.example
+HR Department: hr@nexacoretech.example
+Emergency IT Helpline: +91-422-555-0198
+
+===========================================================
+END OF DOCUMENT
+===========================================================
